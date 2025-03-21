@@ -16,4 +16,4 @@ Garantia de que a página seja totalmente responsiva, adaptando-se a diferentes 
 Imagens Utilizadas
 Todas as imagens presentes neste projeto foram obtidas aleatoriamente através do Google Imagens, estritamente para fins educativos. Como o site é fictício, as imagens foram selecionadas apenas para ilustrar o layout e não possuem vínculo comercial ou direitos autorais associados ao projeto.
 
-link para o site na versel:
+link para o site na versel:https://projeto-bootstrap-ebac-flame.vercel.app/
